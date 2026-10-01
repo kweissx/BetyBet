@@ -24,6 +24,13 @@ Currency is MXN. Virtual bankroll: **2,000 MXN**. One unit = **50 MXN** (2.5% of
 4. If the event hasn't finished or you can't confirm the result, leave it open and add a note.
    Never guess a result.
 
+**If `picks/YYYY-MM-DD.md` already exists for today** (because of an earlier manual run), only do Step 1. Add
+a "Later update" section to that file with the graded results and the stats output, and log no new picks.
+
+**Data access:** odds-comparison and some sports sites (OddsPortal, ESPN, Betfred) are blocked by the network
+proxy. Use WebSearch for results and odds, and say in the report that the prices are approximate. Record
+each pick's **minimum acceptable odds** in `notes` (the price where the edge drops below 3%).
+
 ## Step 2: Find candidates
 
 - Window: events that start between **18:00 today and 14:00 tomorrow** (CDMX time), so the user can place
