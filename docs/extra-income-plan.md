@@ -19,6 +19,15 @@
 - Refuses: low-paid work at others' whims, door-to-door selling.
 - Has laptop and good internet. Has NIE and a Spanish bank account.
 
+### CV review (2026-10-01, Profile.pdf, 6 pages)
+- 25+ years in VFX/advertising. Credits: Peaky Blinders S6, The Whale, Transatlantic, Selena, Anansi Boys,
+  Dolittle prologue; MPC (Mexico, NYC), Glassworks, Coffee & TV. Clients: Coca-Cola, Pepsi, Nestlé,
+  Danone, Lipton, Samsung, Macy's. Lipton product-shot work won a contract for all Latin America.
+- Currently: Gazpacho Studio Barcelona, AI image & video head (since Jul 2025).
+- Weak points: short project jobs, a gap filled by an Office Manager job (Sep 2024–May 2025), headline
+  says "AI curious", summary says "eager to pursue a new career path", FIT is listed twice.
+- Best niche: AI + VFX finishing for **advertising / product video**, bilingual, Spain + Mexico/LatAm.
+
 ## Franchise under evaluation: Almalibre Açaí (vending machine)
 Source: the user's PDF "Business Plan Franchising – Açaí vending machine 08-26" (13 slides), plus
 listings on lexpress-franchise.com and franquishop.com. Contact: franquicias@almalibreacaihouse.com.
