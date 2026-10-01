@@ -32,3 +32,6 @@ Original session: https://claude.ai/code/session_0182tg54wodazSoc7kCyRcM5
   `docs/extra-income-plan.md`. Still waiting on the interview answers and the franchise details.
 - The franchise is **Almalibre Açaí vending machine** (Spain, 24,900 € + VAT). Reviewed: not
   recommended now. Full analysis in `docs/extra-income-plan.md`. Interview answers still pending.
+- Almalibre (Leo, Responsable de Franquicias, WhatsApp) asks for name, DNI/NIE, email and address
+  to send an NDA before sharing detailed numbers. Advice: signing an NDA is normal and doesn't commit
+  to buying; read it first. Questions to send afterwards: `docs/almalibre-preguntas.md`.
