@@ -88,4 +88,21 @@ Rule: no single stock above about 10–15% of the account; single stocks togethe
 4. Check the annual fees ("arancel") for GBMF3 and GBMDINT on their GBM fact sheets. If above about
    0.5%, CETES or Smart Cash MXN do the same job for less.
 
+## Answers received (2026-10-01)
+- Monthly contribution: about **1,000 MXN**.
+- Emergency fund: **none yet / monthly expenses unknown** ("have to work on it").
+- Debt: answer unclear ("4."), asked again.
+
+## Plan given these answers
+1. Rebalance as proposed. The proceeds plus existing cash and GBMF3 (about 20,000 MXN) become the
+   **emergency fund**, in CETES or Smart Cash MXN, labelled as untouchable.
+2. Homework: average monthly expenses from the last 3 months of bank/card statements, then
+   target = 6 x that.
+3. Monthly 1,000 MXN: 100% to the emergency fund until it covers 3 months; 50/50 with long-term
+   from 3 to 6 months; 100% long-term after that.
+4. Long-term buys: SIC trades are whole shares and VUAA costs about 2,700 MXN, so let 1,000 MXN
+   a month accumulate and buy once a quarter.
+5. Execution: sell during US market hours (8:30–15:00 CDMX) with limit orders near the last price,
+   not market orders (SIC liquidity can be thin).
+
 ## Decisions
