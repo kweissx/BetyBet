@@ -111,6 +111,21 @@ Ask for these before anything else. If the franchisor won't give them in writing
 commit more than the user could lose without hurting rent and food. With a job at risk, keep an
 emergency fund of 3–6 months of expenses first.
 
+## Options under discussion (2026-10-01)
+- **A. AI automation agency.** User's favourite 6 months ago, worried it's crowded. Advice: find the
+  niche by talking to 20 businesses, not by thinking. Candidate niches: dance/pole/fitness studios
+  (user's network from the pole shop), dental/medical practices, vets, real estate agents in CDMX.
+  Most of their customer messages arrive by WhatsApp.
+- **B. Product brand, online in Mexico.** Ideas seen in ads: bad-breath spray device, red-light
+  therapy, private-label supplements/gummies, weight-loss hypnosis app. Advice: these ads target
+  would-be founders, and the manufacturer earns either way. Health claims bring COFEPRIS rules and
+  Meta ad restrictions. If doing B, choose a product without medical claims, test demand with
+  a landing page before buying stock, and use at least 2 suppliers.
+- **C. Devuelving** (Spain, online-store franchise, about 3,695 € + VAT, shared catalogue of about 50,000
+  products shipped by them). Advice: no. Many near-identical stores sell the same catalogue, getting
+  customers is entirely the franchisee's job, there are many resales (traspasos), and it's Spain-focused.
+  Building her own store teaches the same for less.
+
 ## Ideas (to be ranked after the interview)
 Low-cost options to compare against the franchise once the interview is filled in:
 - Selling an existing skill as a service (freelance/consulting/tutoring), online so it works from
