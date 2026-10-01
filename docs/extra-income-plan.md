@@ -5,14 +5,19 @@
   user's job may be at risk.
 - 15–30 minutes a day for betting. Total time available for other income: _to be confirmed_.
 
-## Interview answers (to be filled in)
-- Current job, field and skills:
-- Spain: has NIE and a Spanish bank account (worked there 2019–2020).
-- Languages:
-- Hours per week available for side income:
-- Money available to invest (separate from the 2,000 MXN betting test):
-- Things they enjoy, or that people already ask them for help with:
-- Online or in person? Mexico, Spain, or both?
+## Interview answers (2026-10-01)
+- Age 47. Visual effects (VFX), started in design. Last year built and ran the AI department of a small
+  VFX studio in Barcelona. The job likely ends between December and January.
+- Strength: problem solving, finds a way with old or new tools. Good with people and alone.
+- Languages: English and Spanish, both good.
+- Education: FIT (fine art), Sheridan College (computer animation).
+- Time: 10–12 hours/week.
+- Money to invest: **20,000 USD**. Unclear if this is all her savings (to confirm).
+- Goal: peace of mind and a break from living paycheck to paycheck; wants to stop VFX as a career.
+- Tried before: pole-dance outfit shop. Failed because of dependence on one seamstress who copied the
+  designs. Lesson: avoid businesses that depend on one supplier.
+- Refuses: low-paid work at others' whims, door-to-door selling.
+- Has laptop and good internet. Has NIE and a Spanish bank account.
 
 ## Franchise under evaluation: Almalibre Açaí (vending machine)
 Source: the user's PDF "Business Plan Franchising – Açaí vending machine 08-26" (13 slides), plus
