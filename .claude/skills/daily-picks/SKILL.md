@@ -57,6 +57,10 @@ Then write **your own probability** for the selection **before** you look at the
 
 1. Get the best available odds from bookmakers that are legal for the user: in Mexico, SEGOB-licensed
    books (Caliente, Codere, bet365, Betway, Strendus...). In Spain, DGOJ-licensed books.
+   The user only has access to **Caliente** in Mexico (search works at caliente.mx without logging in). Mexican
+   prices are often lower than European ones, so when a pick depends on a price that Caliente rarely matches
+   (for example, European draws and underdogs), say so. Always give the minimum odds in **American format** too
+   (e.g. 3.35 = +235, 1.90 = -111), because that's what the user sees.
 2. Remove the bookmaker margin to get the fair market probability. For a market with outcomes i, the fair
    probability is `p_i = (1/odds_i) / sum(1/odds_j)`. Use a sharp reference (Pinnacle or exchange prices)
    when you can find one.
