@@ -29,3 +29,6 @@ Original session: https://claude.ai/code/session_0182tg54wodazSoc7kCyRcM5
 6. **GBM investing** (session 3, 2026-10-01): the user wants help growing their GBM account. Plan and
    current market context in `docs/investing-plan.md`. Emergency fund 5–6 months, no debt, 1,000 MXN/month.
    The user keeps NVDA/PLTR, and doesn't want this topic framed around losing their job.
+7. **GBM monthly orders routine** (trigger `trig_016zf4F9WaMLefvWeX7yRwDy`) fires on the 2nd of each
+   month at 07:47 CDMX in a fresh session, with push and email. It writes `investing/YYYY-MM.md` on
+   branch `claude/quirky-noether-uujbd7`. The user reports fills so `investing/holdings.md` stays current.
