@@ -126,6 +126,14 @@ emergency fund of 3–6 months of expenses first.
   customers is entirely the franchisee's job, there are many resales (traspasos), and it's Spain-focused.
   Building her own store teaches the same for less.
 
+### Niche shortlist for A (no pole-studio network)
+1. Aesthetic clinics / med-spas in CDMX: high prices, many Instagram/WhatsApp leads, need content too.
+2. Short-term rental (Airbnb) managers in CDMX: guests write 24/7 in English, so being bilingual is an edge.
+   Competes with existing software (Hospitable, Hostaway), so sell setup and local service.
+3. Real estate agents: lead replies, listing texts, AI virtual staging of photos.
+Method: 10 discovery conversations per niche (2 niches), no selling. Script in
+`docs/discovery-script.md`.
+
 ## Ideas (to be ranked after the interview)
 Low-cost options to compare against the franchise once the interview is filled in:
 - Selling an existing skill as a service (freelance/consulting/tutoring), online so it works from
