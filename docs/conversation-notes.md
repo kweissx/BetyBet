@@ -26,3 +26,5 @@ Original session: https://claude.ai/code/session_0182tg54wodazSoc7kCyRcM5
    (Betfair Exchange, needs a NIE, and accounts must be verified for about 1 month before promos).
 5. The user wants an **extra-income plan** and an **evaluation of a franchise** they saw. Started in
    session 2. See `docs/extra-income-plan.md`.
+6. **GBM investing** (session 3, 2026-10-01): the user wants help growing their GBM account. Plan and
+   current market context in `docs/investing-plan.md`. Waiting for balance, holdings and expenses.
