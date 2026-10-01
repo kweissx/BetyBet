@@ -7,6 +7,7 @@
 
 ## Interview answers (to be filled in)
 - Current job, field and skills:
+- Spain: has NIE and a Spanish bank account (worked there 2019–2020).
 - Languages:
 - Hours per week available for side income:
 - Money available to invest (separate from the 2,000 MXN betting test):

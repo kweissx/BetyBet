@@ -35,3 +35,5 @@ Original session: https://claude.ai/code/session_0182tg54wodazSoc7kCyRcM5
 - Almalibre (Leo, Responsable de Franquicias, WhatsApp) asks for name, DNI/NIE, email and address
   to send an NDA before sharing detailed numbers. Advice: signing an NDA is normal and doesn't commit
   to buying; read it first. Questions to send afterwards: `docs/almalibre-preguntas.md`.
+- The user **has a NIE and a Spanish bank account** (worked in Spain 2019–2020, then moved back to
+  Mexico). This helps with the Almalibre NDA and with matched betting in Spain (Betfair needs a NIE).
