@@ -23,3 +23,12 @@ Goal: learn what costs them time and money. **Don't sell anything.** 10 conversa
 
 ## Decision after 20 conversations
 Choose the niche where **3+ people describe the same problem and say they'd pay**. Build that one.
+
+## Pole / dance studios (reconnecting with the user's old network)
+> ¡Hola [nombre]! Soy Karen, la de [nombre de la tienda]. ¡Cuánto tiempo! Ahora estoy trabajando
+> con inteligencia artificial y estoy investigando cómo los estudios manejan reservas, pagos y
+> mensajes por WhatsApp/Instagram. ¿Me regalas 10 minutos para unas preguntas? No vendo nada.
+> Y si conoces a dueñas/os de estudio que quieran opinar, ¡te lo agradezco mucho!
+
+Extra questions for studios: How do students book and pay? How many no-shows per week?
+How much time a week goes to answering the same questions (prices, schedules, levels)?
