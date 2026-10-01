@@ -26,3 +26,7 @@ Original session: https://claude.ai/code/session_0182tg54wodazSoc7kCyRcM5
    (Betfair Exchange, needs a NIE, and accounts must be verified for about 1 month before promos).
 5. The user wants an **extra-income plan** and an **evaluation of a franchise** they saw. Started in
    session 2. See `docs/extra-income-plan.md`.
+
+# Session 3 (2026-10-01)
+- Added a franchise evaluation checklist and a "no debt / emergency fund first" rule to
+  `docs/extra-income-plan.md`. Still waiting on the interview answers and the franchise details.
