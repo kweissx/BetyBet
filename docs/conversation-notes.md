@@ -30,3 +30,5 @@ Original session: https://claude.ai/code/session_0182tg54wodazSoc7kCyRcM5
 # Session 3 (2026-10-01)
 - Added a franchise evaluation checklist and a "no debt / emergency fund first" rule to
   `docs/extra-income-plan.md`. Still waiting on the interview answers and the franchise details.
+- The franchise is **Almalibre Açaí vending machine** (Spain, 24,900 € + VAT). Reviewed: not
+  recommended now. Full analysis in `docs/extra-income-plan.md`. Interview answers still pending.

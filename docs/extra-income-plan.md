@@ -13,12 +13,59 @@
 - Things they enjoy, or that people already ask them for help with:
 - Online or in person? Mexico, Spain, or both?
 
-## Franchise under evaluation
-- Name, sector, link:
-- Total investment (fee + set-up + working capital):
-- Royalties and marketing fee (% of sales):
-- What the franchisor claims about sales/profit:
-- Location (CDMX? Spain?), and who would run it while the user is away:
+## Franchise under evaluation: Almalibre Açaí (vending machine)
+Source: the user's PDF "Business Plan Franchising – Açaí vending machine 08-26" (13 slides), plus
+listings on lexpress-franchise.com and franquishop.com. Contact: franquicias@almalibreacaihouse.com.
+- **What it is:** a self-service soft-serve açaí vending machine (0.85 m², 220 V / 50 Hz, i.e. built
+  for Spain/Europe). Almalibre sells açaí in Spain since 2015 (HQ Valencia, shops in Valencia and
+  Barcelona). The vending franchise is new; the brand says it will open 200 units in Spain by 2027.
+- **Investment (VAT not included):** fee 5,000 € + machine 18,950 € + supply kit 950 € = 24,900 €.
+  Installation and transport not included. Software free in year 1, then 75 €/month + VAT.
+  With 21% VAT that is about 30,100 € cash up front.
+- **Fees:** royalty 3% + marketing 3% of sales. Product bought from the franchisor (35% of sales).
+- **Their claim:** 25 cups/day × 4.50 € = 3,400 €/month sales, 47% "EBITDA", 1,600 €/month profit,
+  payback 18 months. Other listings claim 59,000 €/year, 30–40 cups/day and payback under 12 months.
+
+### Assessment (2026-10-01)
+**Verdict: not for the user now.** Main reasons:
+1. **The numbers don't agree with each other.** Payback is 18 months (slide 9 text), about 10 months
+   (slide 9 chart, 2,500 €/month) and under 12 months (web listing). Sales are 40,800 €/year in the PDF
+   and 59,000 €/year online. "Annual profit 18,000 €" ≠ 12 × 1,600 €.
+2. **The 47% leaves costs out:** card fees, cleaning/refilling labour, repairs, insurance, accounting,
+   software from year 2, waste, stock transport, installation, and income tax. EBITDA also ignores the
+   machine wearing out. It's unclear whether the 4.50 € includes VAT.
+3. **"No staff" isn't true.** A soft-serve machine must be refilled, cleaned and restocked (they sell
+   a 250 L freezer, mop bucket and vacuum in the kit). The user is in Spain only about 4 months/year,
+   so a paid helper would be needed for the other 8.
+4. **It's a Spain business.** The machine is 220 V/50 Hz (Mexico runs 60 Hz). Running it from Mexico
+   means a NIE, a Spanish company or autónomo status, Spanish taxes as a non-resident, and declaring
+   the income in Mexico too.
+5. **The vending model has no track record.** The figures are projections. The machines have
+   cloud telemetry, so the franchisor *can* show real sales from machines already running.
+6. **Too much money for the user's situation:** roughly 30,000 € with VAT, while money is tight and
+   the job is at risk.
+
+### Our own rough model (monthly, year 2, before income tax)
+Assumes the dossier's cost %, plus 1.5% card fees and about 175 €/month fixed (software,
+maintenance/insurance, accounting share). Price 4.50 € incl. 10% VAT.
+| Cups/day | Sales | Profit if user refills | Profit with paid refiller (300 €) | Payback on ~27,000 € |
+|---|---|---|---|---|
+| 12 | 1,490 € | ~500 € | ~200 € | 11 years |
+| 18 | 2,240 € | ~840 € | ~540 € | ~4 years |
+| 25 (their case) | 3,110 € | ~1,240 € | ~940 € | ~2.5 years |
+| 35 | 4,350 € | ~1,800 € | ~1,500 € | ~1.5 years |
+The whole bet is location: 25 cups every day of the year (winter included) needs a busy spot, and
+the dossier assumes rent at only 8% of sales.
+
+### If the user still wants to pursue it, ask for (in writing)
+- The DIP (Documento de Información Precontractual) and the draft contract, at least 20 days
+  before signing.
+- Real telemetry sales of every machine running for 6+ months, month by month (summer vs winter).
+- Contact details of every vending franchisee; call at least 5.
+- Who finds the location, who negotiates rent, and what happens if a location fails (can the machine move?).
+- Warranty, repair times, spare parts, who pays for breakdowns. Machine wholesale cost and resale.
+- Contract length, exit terms, minimum purchases, product price changes, territory exclusivity.
+- Why the OS is listed as "Android 4.7" (no such version exists; old Android is a security risk).
 
 ## How the franchise will be judged (session 2)
 Ask for these before anything else. If the franchisor won't give them in writing, that is the answer.
@@ -52,3 +99,4 @@ Low-cost options to compare against the franchise once the interview is filled i
 - Remote work paid in EUR/USD while living in Mexico, if the user's field allows it.
 
 ## Decisions
+- 2026-10-01: Almalibre vending franchise reviewed. Recommendation: don't invest now (see above).
