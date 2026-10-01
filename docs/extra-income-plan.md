@@ -25,6 +25,9 @@ listings on lexpress-franchise.com and franquishop.com. Contact: franquicias@alm
 - **Fees:** royalty 3% + marketing 3% of sales. Product bought from the franchisor (35% of sales).
 - **Their claim:** 25 cups/day × 4.50 € = 3,400 €/month sales, 47% "EBITDA", 1,600 €/month profit,
   payback 18 months. Other listings claim 59,000 €/year, 30–40 cups/day and payback under 12 months.
+- **The claims have dropped over time.** The older web presentation implied about 2,100–2,300 €/month
+  profit (59,000 €/year × 47%). The newer PDF (dated 08-26) says 1,600 €/month, with more disclaimers.
+  The user noticed this themselves. Ask the franchisor why (real data coming in?).
 
 ### Assessment (2026-10-01)
 **Verdict: not for the user now.** Main reasons:
