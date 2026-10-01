@@ -27,4 +27,5 @@ Original session: https://claude.ai/code/session_0182tg54wodazSoc7kCyRcM5
 5. The user wants an **extra-income plan** and an **evaluation of a franchise** they saw. Started in
    session 2. See `docs/extra-income-plan.md`.
 6. **GBM investing** (session 3, 2026-10-01): the user wants help growing their GBM account. Plan and
-   current market context in `docs/investing-plan.md`. Waiting for balance, holdings and expenses.
+   current market context in `docs/investing-plan.md`. Emergency fund 5–6 months, no debt, 1,000 MXN/month.
+   The user keeps NVDA/PLTR, and doesn't want this topic framed around losing their job.

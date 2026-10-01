@@ -105,4 +105,29 @@ Rule: no single stock above about 10–15% of the account; single stocks togethe
 5. Execution: sell during US market hours (8:30–15:00 CDMX) with limit orders near the last price,
    not market orders (SIC liquidity can be thin).
 
+## Update (2026-10-01, later): new answers and preferences
+- **Emergency fund: 5–6 months already covered** (outside the GBM account). **No debt.**
+- Monthly contribution: 1,000 MXN for now.
+- The user asked not to frame this chat around possible job loss. Focus on what and when to invest.
+- **The user keeps NVDA and PLTR (does not want to sell).** The earlier rebalance proposal is
+  dropped. Concentration is now handled with new money plus a pre-agreed trim rule.
+- Since the emergency fund exists elsewhere, the whole GBM account is long-term money.
+
+## Target mix for the GBM account
+| Bucket | Target | Now |
+|---|---|---|
+| US index (VUAA) | 40% | 17% |
+| Non-US index (e.g. VXUS, or a UCITS all-world/ex-US option if available in the SIC) | 25% | 0% |
+| Conviction stocks (NVDA, PLTR, GMEXICO) | at most 25% (no new money until under) | 54% |
+| Mexican gov. debt (CETES/Udibonos/GBMF3) | 10% | 10% |
+
+Actions:
+1. Sell GBMALFA (fees, duplicates Mexico exposure). Deploy it with idle cash (about 5,700 MXN)
+   into the non-US ETF and VUAA in 2–3 tranches over Oct–Dec 2026.
+2. 1,000 MXN a month accumulates. Buy quarterly (first week of Jan/Apr/Jul/Oct), whichever index
+   bucket is furthest below target.
+3. Trim rule (agreed in calm times): if any single stock exceeds 35% of the account, sell 1 share
+   and move it to the index buckets.
+4. Opportunity rule: if the S&P 500 falls 15%+ from its high, move the debt bucket into equities.
+
 ## Decisions
