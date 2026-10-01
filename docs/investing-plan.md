@@ -130,4 +130,22 @@ Actions:
    and move it to the index buckets.
 4. Opportunity rule: if the S&P 500 falls 15%+ from its high, move the debt bucket into equities.
 
+## Precise operating rules (agreed 2026-10-01, replace the target-mix actions above)
+- **One ETF for all new money: VWRA N** (Vanguard FTSE All-World UCITS, accumulating, ISIN
+  IE00BK5BQT80, 0.19% a year, on the SIC). It holds about 4,000 companies worldwide (about 60% US).
+  Chosen over VXUS because it matches VUAA (Irish, accumulating, no dividend paperwork) and is
+  confirmed on the BMV/SIC. Price about USD 193 = about 3,490 MXN (2026-09-30).
+- VUAA: keep, no new buys. NVDA/PLTR/GMEXICO: keep, no new buys. GBMF3: keep as the debt bucket.
+- **Buy rule:** whenever settled cash is at least the price of 1 VWRA + 1%, buy 1 VWRA.
+- **How to buy:** limit order at the ask price shown in the app. VWRA/VUAA are London-listed, so trade
+  while London is open: 8:30–9:30 CDMX until 25 Oct 2026, 8:30–10:30 CDMX from 26 Oct
+  (London is back on GMT). If it doesn't fill, re-place it the next morning.
+- **Trim rule:** any single stock above 35% of the account, sell 1 share and buy VWRA.
+- **Opportunity rule:** S&P 500 falls 15%+ from its high, sell GBMF3 and buy VWRA.
+- **Schedule:**
+  - October 2026: sell all GBMALFA; buy 1 VWRA with the settled cash.
+  - About 2 Nov: GBMALFA proceeds + leftover + October/November contributions, buy 1 VWRA.
+  - Then about every 3–4 months at 1,000 MXN/month.
+- A monthly routine on the 2nd at 07:47 CDMX writes `investing/YYYY-MM.md` with exact orders.
+
 ## Decisions
