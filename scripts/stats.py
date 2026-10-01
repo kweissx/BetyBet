@@ -19,8 +19,12 @@ def main(path=LEDGER):
     with open(path, newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
 
+    skipped = [r for r in rows if r["result"].strip().upper() == "SKIP"]
+    rows = [r for r in rows if r not in skipped]
     settled = [r for r in rows if r["result"].strip()]
     open_picks = len(rows) - len(settled)
+    if skipped:
+        print(f"Skipped (price below minimum at the user's bookmaker): {len(skipped)}")
     if not settled:
         print(f"No settled picks yet ({open_picks} open). Bankroll: {START_BANKROLL:.0f} MXN")
         return

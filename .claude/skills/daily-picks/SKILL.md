@@ -18,7 +18,8 @@ Currency is MXN. Virtual bankroll: **2,000 MXN**. One unit = **50 MXN** (2.5% of
 2. For each one, search the web for the final result and the **closing odds** (the last price before
    kickoff, from an odds-comparison site such as OddsPortal, or the same bookmaker if it's available).
 3. Fill in the columns:
-   - `result`: `W`, `L`, `P` (push/void) or `HW`/`HL` (half win/half loss on Asian lines)
+   - `result`: `W`, `L`, `P` (push/void) or `HW`/`HL` (half win/half loss on Asian lines).
+     `SKIP` means the user's bookmaker (Caliente) offered less than the minimum odds, so it isn't counted
    - `pnl_mxn`: for W, `stake*(odds_taken-1)`. For L, `-stake`. For P, `0`. Halve it for HW/HL.
    - `closing_odds` and `clv_pct = (odds_taken / closing_odds - 1) * 100`
 4. If the event hasn't finished or you can't confirm the result, leave it open and add a note.
