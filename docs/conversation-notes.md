@@ -37,3 +37,6 @@ Original session: https://claude.ai/code/session_0182tg54wodazSoc7kCyRcM5
   to buying; read it first. Questions to send afterwards: `docs/almalibre-preguntas.md`.
 - The user **has a NIE and a Spanish bank account** (worked in Spain 2019–2020, then moved back to
   Mexico). This helps with the Almalibre NDA and with matched betting in Spain (Betfair needs a NIE).
+- Leo refuses to answer any question before the NDA. Advice: OK to give data and sign the NDA if the
+  user wants (it doesn't commit to buying), but send the NDA to Claude to review first, and pay no
+  deposit. Overall verdict on the franchise is still "not now".
