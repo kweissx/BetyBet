@@ -12,7 +12,7 @@
 - Languages: English and Spanish, both good.
 - Education: FIT (fine art), Sheridan College (computer animation).
 - Time: 10–12 hours/week.
-- Money to invest: **20,000 USD**. Unclear if this is all her savings (to confirm).
+- Money to invest: **20,000 USD set aside only for a new business** (separate from other savings).
 - Goal: peace of mind and a break from living paycheck to paycheck; wants to stop VFX as a career.
 - Tried before: pole-dance outfit shop. Failed because of dependence on one seamstress who copied the
   designs. Lesson: avoid businesses that depend on one supplier.
@@ -26,7 +26,9 @@
 - Currently: Gazpacho Studio Barcelona, AI image & video head (since Jul 2025).
 - Weak points: short project jobs, a gap filled by an Office Manager job (Sep 2024–May 2025), headline
   says "AI curious", summary says "eager to pursue a new career path", FIT is listed twice.
-- Best niche: AI + VFX finishing for **advertising / product video**, bilingual, Spain + Mexico/LatAm.
+- ~~Best niche: AI + VFX for advertising~~. **Rejected by the user: will not work in VFX/film/advertising
+  again, firm decision.** Plans must use transferable skills only (problem solving, AI tools,
+  bilingual, project coordination, design eye, Mexico + Spain).
 
 ## Franchise under evaluation: Almalibre Açaí (vending machine)
 Source: the user's PDF "Business Plan Franchising – Açaí vending machine 08-26" (13 slides), plus
@@ -117,4 +119,5 @@ Low-cost options to compare against the franchise once the interview is filled i
 - Remote work paid in EUR/USD while living in Mexico, if the user's field allows it.
 
 ## Decisions
+- 2026-10-01: No more VFX/film/advertising work. The 20,000 USD is for a new business.
 - 2026-10-01: Almalibre vending franchise reviewed. Recommendation: don't invest now (see above).
