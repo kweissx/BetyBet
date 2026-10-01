@@ -55,4 +55,37 @@ rebalanced once a year. Same amount every month (DCA), whatever the peso does.
 4. Any credit-card or personal-loan debt? At what rate?
 5. When might this money be needed?
 
+## Portfolio snapshot (screenshots shared 2026-10-01), total about 31,950 MXN
+| Holding | Type | Value | % | Return shown |
+|---|---|---|---|---|
+| NVDA (2) | US single stock (SIC) | 8,420 | 26% | +58.5% |
+| PLTR (2) | US single stock (SIC) | 6,922 | 22% | +25.1% |
+| VUAA (2) | Vanguard S&P 500 UCITS ETF, accumulating (SIC) | 5,400 | 17% | +8.2% |
+| GMEXICO B (8) | Mexican single stock | 1,789 | 6% | +2.1% |
+| GBMALFA BO (1,000) | GBM Mexican equity fund | 1,436 | 4.5% | -3.9% |
+| GBMDINT BO (258) | GBM fund (listed under equity funds) | 599 | 2% | +5.1% |
+| GBMF3 BF (305) | GBM debt fund | 3,135 | 10% | +4.7% |
+| Cash (after settlement) | | 4,250 | 13% | |
+
+Diagnosis:
+- 48% in two AI stocks (NVDA, PLTR). VUAA also holds roughly a third in US tech, so about 55% of the
+  account rides one theme. A 40–50% drawdown in AI names would cost about 7,000–8,000 MXN.
+- Part of the MXN gains is the peso falling 6% in September, not the stocks.
+- VUAA is a good core choice: Irish-domiciled and accumulating (no dividend paperwork).
+- GBMALFA duplicates Mexico exposure the user already has through life and job, and carries GBM fund fees.
+- No emergency fund confirmed yet.
+
+## Proposed rebalance (not yet agreed)
+Rule: no single stock above about 10–15% of the account; single stocks together at most about 20%.
+1. Sell both PLTR, 1 NVDA and all GBMALFA. Frees about 12,570 MXN. Leaves NVDA about 13%,
+   GMEXICO about 6% (single stocks about 19%). Estimated ISR at 10% of net realised gain: about 230 MXN.
+   Commissions: about 0.29% per trade.
+2. Proceeds: if there is no 6-month emergency fund yet, go to CETES. Otherwise, into a global ETF in
+   2–3 monthly tranches, to complement VUAA with non-US exposure (check SIC for VWRA or SSAC, both
+   UCITS accumulating; fallback VT).
+3. Then: a fixed monthly contribution, split by the target mix. No new single stocks unless the
+   20% cap allows.
+4. Check the annual fees ("arancel") for GBMF3 and GBMDINT on their GBM fact sheets. If above about
+   0.5%, CETES or Smart Cash MXN do the same job for less.
+
 ## Decisions
