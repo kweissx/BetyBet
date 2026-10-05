@@ -40,3 +40,13 @@ Original session: https://claude.ai/code/session_0182tg54wodazSoc7kCyRcM5
 - Leo refuses to answer any question before the NDA. Advice: OK to give data and sign the NDA if the
   user wants (it doesn't commit to buying), but send the NDA to Claude to review first, and pay no
   deposit. Overall verdict on the franchise is still "not now".
+
+# 2026-10-05: Almalibre NDA review (pages 1–5 seen, page 6 missing)
+- No payment, no exclusivity, no non-compete, no commitment to buy (cl. 1.3–1.5). Spanish law, Valencia courts.
+- Problems: penalty of **10,000 € per breach** without proving damage (cl. 8); very broad definition
+  incl. the user's own notes/analysis (2.2 n); **no clause allowing disclosure to advisors** (3c), so
+  sharing their numbers with Claude, a lawyer or an accountant could count as a breach; 5-year term;
+  date written as 10/02/2026; address filled in as Barcelona (user now lives in Mexico).
+- Advice: given 30,000 € > 20,000 USD budget and the "not now" verdict, signing a 10,000 € penalty to
+  evaluate an unaffordable franchise isn't worth it. If the user continues anyway: ask for an advisors
+  clause, a lower penalty limited to intentional breach, a corrected date, then sign.
